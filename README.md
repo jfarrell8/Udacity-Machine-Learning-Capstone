@@ -6,12 +6,12 @@ This is my Udacity Machine Learning Nanodegree Capstone Project. In this project
 
 **Files/Folders:**
 
-Project Report: Where the overall project report can be found.
+*Project Report:* Where the overall project report can be found.
 
-Farrell ML Capstone Stock Predictor - Single Stock HPM: Python notebok to execute the data wrangling, preprocessing, training/fitting, and further analysis.
+*Farrell ML Capstone Stock Predictor - Single Stock HPM:* Python notebok to execute the data wrangling, preprocessing, training/fitting, and further analysis.
 
-stock_time_series.py: Helper functions for Python notebooks
+*stock_time_series.py:* Helper functions for Python notebooks
 
-Alternate Models: Additional Python notebooks that were used for alternative analyses
+*Alternate Models:* Additional Python notebooks that were used for alternative analyses
 
-json_stock_data: local directory for extracted adjusted close price data for a stock; saved in JSON file format
+*json_stock_data:* local directory for extracted adjusted close price data for a stock; saved in JSON file format
