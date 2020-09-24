@@ -4,7 +4,7 @@
 
 This is my Udacity Machine Learning Nanodegree Capstone Project. In this project, I use the DeepAR RNN algorithm via AWS SageMaker to try to predict adjust close stock prices in the near future using historical pricing data.
 
-Files/Folders:
+**Files/Folders:**
 
 Project Report: Where the overall project report can be found.
 
