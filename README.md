@@ -1,6 +1,6 @@
 # Udacity-Machine-Learning-Capstone
 
-Stock Prediction using AWS SageMaker DeepAR Algorithm
+**Stock Prediction using AWS SageMaker DeepAR Algorithm**
 
 This is my Udacity Machine Learning Nanodegree Capstone Project. In this project, I use the DeepAR RNN algorithm via AWS SageMaker to try to predict adjust close stock prices in the near future using historical pricing data.
 
